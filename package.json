@@ -1,0 +1,14 @@
+{
+  "name": "gae_kintone_nodejs",
+  "version": "0.0.1",
+  "description": "Node.js x kintone x Nodemailer",
+  "main": "index.js",
+  "author": "K.Kato",
+  "license": "MIT",
+  "dependencies": {
+    "@kintone/rest-api-client": "^2.0.37",
+    "dayjs": "^1.11.1",
+    "dotenv": "^16.0.0",
+    "nodemailer": "^6.7.3"
+  }
+}

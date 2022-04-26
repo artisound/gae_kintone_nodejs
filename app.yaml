@@ -1,0 +1,6 @@
+service: digitown-paidplan-sendmail-nodejs
+runtime: nodejs14
+handlers:
+- url: /.+\.js
+  script: auto
+  secure: always
